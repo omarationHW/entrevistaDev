@@ -1,0 +1,31 @@
+============================================
+EJERCICIO 2 - HTTP Y APIs
+============================================
+
+Relaciona cada metodo HTTP con su uso correcto.
+Escribe la letra correspondiente en cada linea:
+
+Opciones:
+    A) Actualizar parcialmente un recurso
+    B) Eliminar un recurso
+    C) Obtener datos sin modificar nada
+    D) Crear un nuevo recurso
+    E) Actualizar completamente un recurso
+
+Tu respuesta:
+    GET    = ___
+    POST   = ___
+    PUT    = ___
+    DELETE = ___
+    PATCH  = ___
+
+
+============================================
+PREGUNTA EXTRA:
+============================================
+Cual es la diferencia entre PUT y PATCH?
+
+Tu respuesta:
+
+
+
