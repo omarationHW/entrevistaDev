@@ -22,6 +22,8 @@ class Program
 {
     static void InsertarUsuario(string nombre, string email)
     {
+        SqlConnection connection = new SqlConnection("Server=localhost;Database=MiDB;User Id=sa;Password=pass;");
+         
         // ============================================
         // ESCRIBE TU CODIGO/PSEUDOCODIGO AQUI:
         // ============================================

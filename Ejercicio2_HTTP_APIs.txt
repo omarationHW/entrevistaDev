@@ -13,11 +13,11 @@ Opciones:
     E) Actualizar completamente un recurso
 
 Tu respuesta:
-    GET    = ___
-    POST   = ___
-    PUT    = ___
-    DELETE = ___
-    PATCH  = ___
+    GET    = _C__
+    POST   = __D_
+    PUT    = __E_
+    DELETE = __B_
+    PATCH  = _A__
 
 
 ============================================
