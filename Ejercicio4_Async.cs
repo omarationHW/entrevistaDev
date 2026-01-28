@@ -33,11 +33,13 @@ class Program
 
 // 2. Escribe el codigo corregido aqui abajo:
 
-
+/*
+class ProgramCorregido
+{
     public async Task<string> ObtenerDatosAsync()
     {
         // Tu codigo corregido:
 
-
-
     }
+}
+*/

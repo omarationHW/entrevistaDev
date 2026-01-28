@@ -13,7 +13,11 @@ Ejemplo:
 
 # Escribe tu funcion aqui:
 def suma_recursiva(arreglo):
-    pass  # Tu codigo aqui
+    # Caso base: arreglo vacio
+    if len(arreglo) == 0:
+        return 0
+    # Caso recursivo: primer elemento + suma del resto
+    return arreglo[0] + suma_recursiva(arreglo[1:])
 
 
 
